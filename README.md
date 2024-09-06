@@ -1,4 +1,4 @@
-# Allan Lab Website
+# UltraVision+ Lab Website
 
 This is the website of our academic research group at Leiden University.
 
