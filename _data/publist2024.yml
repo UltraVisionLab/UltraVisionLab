@@ -1,7 +1,7 @@
 - title: <a href="https://link.springer.com/article/10.1007/s11263-024-02158-9#Abs1" target="_blank"><strong>Infproto-powered Adaptive Classifier and Agnostic Feature Learning for Single Domain Generalization in Medical Images</strong></a>
   title1: <a href="https://link.springer.com/article/10.1007/s11263-024-02158-9#Abs1" target="_blank"><strong>Infproto-powered Adaptive Classifier and Agnostic Feature Learning for Single Domain Generalization in Medical Images</strong></a>
   image: InfProto.png
-  description: Medical imaging devices and variations between medical centers can result in domain shift, where images exhibit different styles and characteristics. In this paper, we aim to improve model performance when deploying an AI model trained in one medical center to new clinical scenarios. We reason that domain-adaptive classifier learning and domain-agnostic feature extraction are key components in single domain generalization, and further propose an adaptive infinite prototypes (InfProto) scheme to facilitate the learning of the two components. 
+  description: Medical imaging devices and variations between medical centers can result in domain shift, where images exhibit different styles and characteristics. This paper aims to improve model performance when deploying an AI model trained in one medical center to new clinical scenarios. We argue that domain-adaptive classifier learning and domain-agnostic feature extraction are key components in single domain generalization and propose an adaptive infinite prototypes (InfProto) scheme to enhance these components.
   authors: **Xiaoqing Guo**, Jie Liu, Yixuan Yuan.
   display: _International Journal of Computer Vision_ (**IJCV**), 2024.
   highlight: 1
@@ -24,7 +24,7 @@
 - title: <a href="https://arxiv.org/abs/2408.03761" target="_blank"><strong>MMSummary: Multimodal Summary Generation for Fetal Ultrasound Video</strong></a>
   title1: <a href="https://arxiv.org/abs/2408.03761" target="_blank"><strong>MMSummary: Multimodal Summary Generation for Fetal Ultrasound Video</strong></a>
   image: mmsummary.png
-  description: We present the first automated multimodal summary generation system, MMSummary, for medical imaging video, particularly with a focus on fetal ultrasound analysis. Imitating the examination process performed by a human sonographer, MMSummary is designed as a three-stage pipeline, progressing from keyframe detection to keyframe captioning and finally anatomy segmentation and measurement. This system provides comprehensive summaries for fetal ultrasound examinations to enhance clinical workflow efficiency (reduce scanning time by approximately 1/3%).
+  description: We present MMSummary, the first automated multimodal summary generation system for medical imaging videos, with a focus on fetal ultrasound analysis. Mimicking the examination process of a human sonographer, MMSummary operates in a three-stage pipeline: keyframe detection, keyframe captioning, and anatomy segmentation with measurement. This system provides comprehensive summaries of fetal ultrasound examinations, enhancing clinical workflow efficiency by reducing scanning time by approximately one-third.
   authors: **Xiaoqing Guo**, Qianhui Men, Alison Noble.
   display: _International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2024**), Marrakesh, Morocco.
   highlight: 1
@@ -32,15 +32,15 @@
 - title: <a href="https://arxiv.org/abs/2408.09931" target="_blank"><strong>Pose-GuideNet: Automatic Scanning Guidance for Fetal Head Ultrasound from Pose Estimation</strong></a>
   title1: <a href="https://arxiv.org/abs/2408.09931" target="_blank"><strong>Pose-GuideNet: Automatic Scanning Guidance for Fetal Head Ultrasound from Pose Estimation</strong></a>
   image: Pose-GuideNet.png
-  description: We investigate how estimating 3D fetal pose from freehand 2D ultrasound scanning can guide a sonographer to locate a head standard plane. Fetal head pose is estimated by the proposed Pose-GuideNet, a novel 2D/3D registration approach to align freehand 2D ultrasound to a 3D anatomical atlas without the acquisition of 3D ultrasound. Evaluations with probe motions demonstrate the feasibility of adopting Pose-GuideNet for freehand ultrasound-assisted navigation in a sensor-free environment.
+  description: We investigate how estimating 3D fetal pose from freehand 2D ultrasound scanning can guide a sonographer to locate a head standard plane. The proposed Pose-GuideNet utilizes a novel 2D/3D registration approach to align freehand 2D ultrasound with a 3D anatomical atlas without requiring 3D ultrasound acquisition. Evaluations with probe motions demonstrate Pose-GuideNet’s feasibility for freehand ultrasound-assisted navigation in a sensor-free environment.
   authors: Qianhui Men, **Xiaoqing Guo**, Aris Papageorghiou, Alison Noble.
   display: _International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2024**), Marrakesh, Morocco.
   highlight: 1
 
-- title: <a href="https://arxiv.org/abs/2406.02422" target="_blank"><strong>IterMask^2: Iterative Unsupervised Anomaly Segmentation via Spatial and Frequency Masking for Brain Lesions in MRI</strong></a> [<a href="https://github.com/ZiyunLiang/IterMask2" target="_blank">code</a>] <strong>(Early Accept, Oral)</strong>
-  title1: <a href="https://arxiv.org/abs/2406.02422" target="_blank"><strong>IterMask^2: Iterative Unsupervised Anomaly Segmentation via Spatial and Frequency Masking for Brain Lesions in MRI</strong></a>
+- title: <a href="https://arxiv.org/abs/2406.02422" target="_blank"><strong>IterMask<sup>2</sup>: Iterative Unsupervised Anomaly Segmentation via Spatial and Frequency Masking for Brain Lesions in MRI</strong></a> [<a href="https://github.com/ZiyunLiang/IterMask2" target="_blank">code</a>] <strong>(Early Accept, Oral)</strong>
+  title1: <a href="https://arxiv.org/abs/2406.02422" target="_blank"><strong>IterMask<sup>2</sup>: Iterative Unsupervised Anomaly Segmentation via Spatial and Frequency Masking for Brain Lesions in MRI</strong></a>
   image: IterMask2.png
-  description: We propose an anomaly detection framework, IterMask2, to identify unexpected inputs for enhanced safeguards. We also introduce an iterative approach to reveal the AI model’s decision-making process, helping clinicians understand the model’s outcomes. Clinicians can review the generated results and select the ones they find best. With this human-in-the-loop approach, the model’s performance is significantly improved, making it more effective for deployment in real clinical settings.
+  description: We propose IterMask<sup>2</sup>, an anomaly detection framework designed to identify unexpected inputs for enhanced safeguards. Additionally, we introduce an iterative approach to reveal the AI model’s decision-making process, assisting clinicians in understanding and evaluating the model’s outcomes. Clinicians can review and select the most accurate results. This human-in-the-loop approach significantly improves the model’s performance, enhancing its effectiveness in real clinical settings.
   authors: Ziyun Liang, **Xiaoqing Guo**, Alison Noble, Konstantinos Kamnitsas.
   display: _International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2024**), Marrakesh, Morocco.
   highlight: 1
