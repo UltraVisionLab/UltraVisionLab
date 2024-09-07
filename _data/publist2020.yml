@@ -1,25 +1,20 @@
-- title: "<a href=\"https://link.springer.com/chapter/10.1007/978-3-030-32239-7_33\" target=\"_blank\"><strong>Triple ANet: Adaptive Abnormal-aware Attention Network for WCE Image Classification</strong></a> [<a href=\"https://github.com/Guo-Xiaoqing/Triple-ANet\" target=\"_blank\"><strong>code</strong></a>] <strong>(Early Accept)</strong>"
+- title: "<a href=\"https://link.springer.com/chapter/10.1007/978-3-030-32239-7_33\" target=\"_blank\"><strong>Triple ANet: Adaptive Abnormal-aware Attention Network for WCE Image Classification</strong></a> [<a href=\"https://github.com/Guo-Xiaoqing/Triple-ANet\" target=\"_blank\"><strong>code</strong></a>] <strong>_(Early Accept)_</strong>"
   authors: "**Xiaoqing Guo**, Yixuan Yuan"
   display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2019**), Shenzhen, China"
   highlight: 0
 
-- title: "<a href=\"https://ieeexplore.ieee.org/document/9098417\" target=\"_blank\"><strong>Complementary Network with Adaptive Receptive Fields for Melanoma Segmentation</strong></a> [<a href=\"https://github.com/Guo-Xiaoqing/Skin-Seg\" target=\"_blank\"><strong>code</strong></a>] <strong>(Early Accept)</strong>"
+- title: "<a href=\"https://ieeexplore.ieee.org/document/9098417\" target=\"_blank\"><strong>Complementary Network with Adaptive Receptive Fields for Melanoma Segmentation</strong></a> [<a href=\"https://github.com/Guo-Xiaoqing/Skin-Seg\" target=\"_blank\"><strong>code</strong></a>]"
   authors: "**Xiaoqing Guo**, Zhen Chen, Yixuan Yuan"
   display: "_IEEE International Symposium on Biomedical Imaging_ (**ISBI 2020**), Iowa City, Iowa, USA"
   highlight: 0
 
-- title: "**Domain Knowledge Based Brain Tumor Segmentation and Overall Survival Prediction**"
+- title: "<a href=\"https://link.springer.com/chapter/10.1007/978-3-030-46643-5_28\" target=\"_blank\"><strong>Domain Knowledge Based Brain Tumor Segmentation and Overall Survival Prediction</strong></a>"
   authors: "**Xiaoqing Guo**, Chen Yang, Pak Lun Lam, Peter Y. M. Woo, Yixuan Yuan"
-  link:
-    titleurl: "https://link.springer.com/chapter/10.1007/978-3-030-46643-5_28" 
-  display: "_Brain Lesion (BrainLes) workshop of MICCAI 2019</em>, Shenzhen, China"
+  display: "_Brain Lesion (BrainLes) workshop of MICCAI 2019_, Shenzhen, China"
   highlight: 0
 
-- title: "**Joint Spatial-Wavelet Dual-Stream Network for Super-Resolution (Early Accept)**"
+- title: "<a href=\"https://link.springer.com/chapter/10.1007/978-3-030-59722-1_18\" target=\"_blank\"><strong>Joint Spatial-Wavelet Dual-Stream Network for Super-Resolution</strong></a> [<a href=\"https://github.com/franciszchen/SWD-Net\" target=\"_blank\"><strong>code</strong></a>] <strong>_(Early Accept)_</strong>"
   authors: "Zhen Chen, **Xiaoqing Guo**, Chen Yang, Bulat Ibragimov, Yixuan Yuan"
-  link:
-    titleurl: "https://link.springer.com/chapter/10.1007/978-3-030-59722-1_18" 
-    codeurl: "https://github.com/franciszchen/SWD-Net" 
   display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2020**), Lima, Peru"
   highlight: 0
 
