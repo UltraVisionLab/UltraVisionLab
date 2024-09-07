@@ -1,14 +1,15 @@
-- name: <a href="https://guo-xiaoqing.github.io/">Xiaoqing Guo</a>
-  photo: XiaoqingGUO.jpg
-  info: PhD Student, since Jan 2025
-  email: xxx@eng.ox.ac.uk
+- name: <a href="https://scholar.google.com.hk/citations?user=fCzlLE4AAAAJ&hl=zh-CN">Weihao Yu</a>
+  photo: WeihaoYu.jpg
+  info: PhD Student (_co-supervised with Prof. Yixuan Yuan_), since Jan 2024
+  # email: xxx@eng.ox.ac.uk
   number_educ: 2
-  education1: M.S. University of Oxford 
-  education2: B.S. City University of Hong Kong 
+  education1: M.S. University of Chinese Academy of Sciences
+  education2: B.S. Huazhong University of Science and Technology
 
-- name: <a href="https://guo-xiaoqing.github.io/">Xiaoqing Guo</a>
-  photo:  XiaoqingGUO.jpg
-  info: PhD Student, since Jan 2025
-  email: xxx@eng.ox.ac.uk
-  number_educ: 1
-  education2: B.S. City University of Hong Kong 
+- name: <a href="https://dblp.org/pid/358/1060.html">Boyun Zheng</a>
+  photo:  BoyunZheng.jpg
+  info: PhD Student (_co-supervised with Prof. Yixuan Yuan_), since Aug 2024
+  # email: xxx@eng.ox.ac.uk
+  number_educ: 2
+  education1: M.S. Shanghai Jiao Tong University
+  education2: B.S. Shanghai Jiao Tong University

@@ -11,9 +11,9 @@ permalink: /team/
  **We are  looking for new PhD students, research assistants, and visitors to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [students](#students), [alumni](#alumni).
+Jump to [PI](#principal-investigator (PI)), [students](#phd-students), [alumni](#alumni).
 
-## Staff
+## Principal Investigator
 {% assign number_printed = 0 %}
 {% for member in site.data.team_staffs %}
 
@@ -78,7 +78,7 @@ Jump to [staff](#staff), [students](#students), [alumni](#alumni).
 
 
 
-## Students
+## PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_students %}
 
