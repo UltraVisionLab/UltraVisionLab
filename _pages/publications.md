@@ -30,11 +30,12 @@ permalink: /publications/
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.display }}</a></strong></p>
-  <!-- <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p> -->
  </div>
 </div>
 
+  <!-- <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+  <p> {{ publi.news2 }}</p> -->
+  
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}

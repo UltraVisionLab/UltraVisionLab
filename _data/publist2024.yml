@@ -30,7 +30,7 @@
   description: We investigate how estimating 3D fetal pose from freehand 2D ultrasound scanning can guide a sonographer to locate a head standard plane.
   authors: "Qianhui Men, **Xiaoqing Guo**, Aris Papageorghiou, Alison Noble."
   display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2024**), Marrakesh, Morocco."
-  highlight: 0
+  highlight: 1
 
 - title: "<a href=\"https://arxiv.org/abs/2406.02422\" target=\"_blank\"><strong>IterMask^2: Iterative Unsupervised Anomaly Segmentation via Spatial and Frequency Masking for Brain Lesions in MRI</strong></a> [<a href=\"https://github.com/ZiyunLiang/IterMask2\" target=\"_blank\">code</a>] <strong>(Early Accept, Oral)</strong>"
   authors: "Ziyun Liang, **Xiaoqing Guo**, Alison Noble, Konstantinos Kamnitsas."
