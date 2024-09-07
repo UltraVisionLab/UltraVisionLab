@@ -11,7 +11,7 @@ permalink: /publications/
 
 ### In this page, you can find the our publications in [2024](#2024),  [2023](#2023),  [2022](#2022),  [2021](#2021),  [before 2021](#2021). 
 
-<!-- ## Group highlights
+## Group highlights
 
 **At the end of this page, you can find the [full list of publications](#full-list-of-publications). 
 
@@ -54,7 +54,7 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Patents
+<!-- ## Patents
 <em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
 
 <em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>

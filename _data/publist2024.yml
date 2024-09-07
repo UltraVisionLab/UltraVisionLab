@@ -19,11 +19,15 @@
   highlight: 0
 
 - title: "<a href=\"https://arxiv.org/abs/2408.03761\" target=\"_blank\"><strong>MMSummary: Multimodal Summary Generation for Fetal Ultrasound Video</strong></a>"
+  image: mmsummary.png
+  description: We present the first automated multimodal summary generation system, MMSummary, for medical imaging video, particularly with a focus on fetal ultrasound analysis. Imitating the examination process performed by a human sonographer, MMSummary is designed as a three-stage pipeline, progressing from keyframe detection to keyframe captioning and finally anatomy segmentation and measurement. The MMSummary system provides comprehensive summaries for fetal ultrasound examinations to enhance clinical workflow efficiency.
   authors: "**Xiaoqing Guo**, Qianhui Men, Alison Noble."
   display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2024**), Marrakesh, Morocco."
-  highlight: 0
+  highlight: 1
 
 - title: "<a href=\"https://arxiv.org/abs/2408.09931\" target=\"_blank\"><strong>Pose-GuideNet: Automatic Scanning Guidance for Fetal Head Ultrasound from Pose Estimation</strong></a>"
+  image: Pose-GuideNet.png
+  description: We investigate how estimating 3D fetal pose from freehand 2D ultrasound scanning can guide a sonographer to locate a head standard plane.
   authors: "Qianhui Men, **Xiaoqing Guo**, Aris Papageorghiou, Alison Noble."
   display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2024**), Marrakesh, Morocco."
   highlight: 0
