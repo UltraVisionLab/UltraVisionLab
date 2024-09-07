@@ -9,9 +9,11 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+**At the end of this page, you can find the our publications in [2024](#2024),  [2023](#2023),  [2022](#2022),  [2021](#2021),  [before 2021](#2021). 
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
+<!-- ## Group highlights
+
+**At the end of this page, you can find the [full list of publications](#full-list-of-publications). 
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -57,9 +59,47 @@ permalink: /publications/
 
 <em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
 
-## Full List of publications
+## Full List of publications -->
 
-{% for publi in site.data.publist %}
+## 2024
+
+{% for publi in site.data.publist2024 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+## 2023
+
+{% for publi in site.data.publist2023 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+## 2022
+
+{% for publi in site.data.publist2022 %}
+
+  <a href="{{ publi.link.titleurl }}">{{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+## 2021
+
+{% for publi in site.data.publist2021 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+## Before 2021
+
+{% for publi in site.data.publist2020 %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
