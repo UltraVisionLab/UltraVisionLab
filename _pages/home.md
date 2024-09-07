@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "UltraVision+ Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "UltraVision+ Lab - Home"
 sitemap: false
 permalink: /
 ---
