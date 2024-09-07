@@ -1,8 +1,7 @@
-- title: "**Triple ANet: Adaptive Abnormal-aware Attention Network for WCE Image Classification (Early Accept)**"
+- title: "**Triple ANet: Adaptive Abnormal-aware Attention Network for WCE Image Classification (Early Accept) [<a href=\"https://github.com/Guo-Xiaoqing/Triple-ANet\" target=\"_blank\">code</a>]**"
   authors: "**Xiaoqing Guo**, Yixuan Yuan"
   link:
     titleurl: "https://link.springer.com/chapter/10.1007/978-3-030-32239-7_33" 
-    codeurl: "https://github.com/Guo-Xiaoqing/Triple-ANet"
     display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2019**), Shenzhen, China"
   highlight: 0
 

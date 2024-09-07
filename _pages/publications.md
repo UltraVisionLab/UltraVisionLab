@@ -101,7 +101,7 @@ permalink: /publications/
 
 {% for publi in site.data.publist2020 %}
 
-  <a href="{{ publi.link.titleurl }}" target="_blank">{{ publi.title }} [<a href="https://github.com/Guo-Xiaoqing/SSL_WCE" target="_blank">code</a>] <br />
+  <a href="{{ publi.link.titleurl }}" target="_blank">{{ publi.title }} [<a href="{{ publi.link.codeurl }}" target="_blank">code</a>] <br />
   {{ publi.authors }} <br />
   {{ publi.link.display }}
 
