@@ -99,8 +99,8 @@ Jump to [PI](#principal-investigator (PI)), [students](#phd-students), [alumni](
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
+  <li> {{ member.education1}} </li>
+  <li> {{ member.education2}} </li>
   {% endif %}
 
   {% if member.number_educ == 3 %}
