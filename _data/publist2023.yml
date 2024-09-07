@@ -4,7 +4,7 @@
   highlight: 0
 
 - title: "<a href=\"https://www.sciencedirect.com/science/article/abs/pii/S1361841523002190\" target=\"_blank\"><strong>Dynamic Feature Splicing for Few-Shot Rare Disease Diagnosis</strong></a>"
-  authors: "Yuanyuan Chen*, **Xiaoqing Guo***, Yongsheng Pan, Yong Xia, Yixuan Yuan. (* indicates equal contribution)"
+  authors: "Yuanyuan Chen<sup>*</sup>, **Xiaoqing Guo**<sup>*</sup>, Yongsheng Pan, Yong Xia, Yixuan Yuan. (<sup>*</sup> indicates equal contribution)"
   display: "_Medical Image Analysis_ (**MedIA**), 2023."
   highlight: 0
 
