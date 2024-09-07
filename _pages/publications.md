@@ -11,7 +11,7 @@ permalink: /publications/
 
 ### In this page, you can find the our publications in [2024](#2024),  [2023](#2023),  [2022](#2022),  [2021](#2021),  [before 2021](#2021). 
 
-## Group highlights
+## Highlights
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist2024 %}
@@ -29,7 +29,7 @@ permalink: /publications/
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.display }}</a></strong></p>
+  <p><strong>{{ publi.display }}</strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
