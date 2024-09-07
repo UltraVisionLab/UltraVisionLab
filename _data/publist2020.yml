@@ -1,13 +1,10 @@
-- title: "<a href=\"https://link.springer.com/chapter/10.1007/978-3-030-32239-7_33\" target=\"_blank\"><strong>Triple ANet: Adaptive Abnormal-aware Attention Network for WCE Image Classification</strong></a> (Early Accept) [<a href=\"https://github.com/Guo-Xiaoqing/Triple-ANet\" target=\"_blank\">code</a>]"
+- title: "<a href=\"https://link.springer.com/chapter/10.1007/978-3-030-32239-7_33\" target=\"_blank\"><strong>Triple ANet: Adaptive Abnormal-aware Attention Network for WCE Image Classification</strong></a> [<a href=\"https://github.com/Guo-Xiaoqing/Triple-ANet\" target=\"_blank\"><strong>code</strong></a>] <strong>(Early Accept)</strong>"
   authors: "**Xiaoqing Guo**, Yixuan Yuan"
   display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2019**), Shenzhen, China"
   highlight: 0
 
-- title: "**Complementary Network with Adaptive Receptive Fields for Melanoma Segmentation**"
+- title: "<a href=\"https://ieeexplore.ieee.org/document/9098417\" target=\"_blank\"><strong>Complementary Network with Adaptive Receptive Fields for Melanoma Segmentation</strong></a> [<a href=\"https://github.com/Guo-Xiaoqing/Skin-Seg\" target=\"_blank\"><strong>code</strong></a>] <strong>(Early Accept)</strong>"
   authors: "**Xiaoqing Guo**, Zhen Chen, Yixuan Yuan"
-  link:
-    titleurl: "https://ieeexplore.ieee.org/document/9098417" 
-    codeurl: "https://github.com/Guo-Xiaoqing/Skin-Seg"
   display: "_IEEE International Symposium on Biomedical Imaging_ (**ISBI 2020**), Iowa City, Iowa, USA"
   highlight: 0
 
