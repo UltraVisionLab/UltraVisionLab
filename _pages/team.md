@@ -8,8 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students, research assistants, and visitors to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
+ <!-- **We are  looking for new PhD students, research assistants, and visitors to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
 
 Jump to [Principal Investigator (PI)](#principal-investigator), [students](#phd-students), [alumni](#alumni).
 
