@@ -18,25 +18,17 @@
   display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2020**), Lima, Peru"
   highlight: 0
 
-- title: "**Prostate Segmentation with Encoder-Decoder Densely Connected Convolutional Network (ED-DenseNet)**" 
+- title: "<a href=\"https://ieeexplore.ieee.org/abstract/document/8759498\" target=\"_blank\"><strong>Prostate Segmentation with Encoder-Decoder Densely Connected Convolutional Network (ED-DenseNet)</strong></a>"
   authors: "Yixuan Yuan, Wenjian Qin, **Xiaoqing Guo**, Mark Buyyounouski, Steve Hancock, Bin Han, Lei Xing"
-  link:
-    titleurl: "https://ieeexplore.ieee.org/abstract/document/8759498" 
   display: "_IEEE International Symposium on Biomedical Imaging_ (**ISBI 2019**), Venice, Italy"
   highlight: 0
 
-- title: "**Semi-supervised WCE Image Classification with Adaptive Aggregated Attention**"
+- title: "<a href=\"https://doi.org/10.1016/j.media.2020.101733\" target=\"_blank\"><strong>Semi-supervised WCE Image Classification with Adaptive Aggregated Attention</strong></a> [<a href=\"https://github.com/Guo-Xiaoqing/SSL_WCE\" target=\"_blank\"><strong>code</strong></a>]"
   authors: "**Xiaoqing Guo**, Yixuan Yuan"
-  link:
-    titleurl: "https://doi.org/10.1016/j.media.2020.101733"
-    codeurl: "https://github.com/Guo-Xiaoqing/SSL_WCE"
   display: "_Medical Image Analysis_ (**MedIA**), 2020"
   highlight: 0
 
-- title: "**RNN-stega: Linguistic steganography based on recurrent neural networks**"
+- title: "<a href=\"https://ieeexplore.ieee.org/abstract/document/8470163\" target=\"_blank\"><strong>RNN-stega: Linguistic steganography based on recurrent neural networks</strong></a> [<a href=\"https://github.com/YangzlTHU/RNN-Stega\" target=\"_blank\"><strong>code</strong></a>]"
   authors: "Zhongliang Yang, **Xiaoqing Guo**, Ziming Chen, Yongfeng Huang, Yujin Zhang"
-  link:
-    titleurl: "https://ieeexplore.ieee.org/abstract/document/8470163"
-    codeurl: "https://github.com/YangzlTHU/RNN-Stega"
   display: "_IEEE Transactions on Information Forensics and Security_ (**IEEE TIFS**), 2018"
   highlight: 0
