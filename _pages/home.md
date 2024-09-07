@@ -51,7 +51,7 @@ permalink: /
 </div>
 
 
-We are a dynamic research group, at the [Department of Computer Science of Hong Kong Baptist University (HKBU)](https://www.comp.hkbu.edu.hk/v1/?page=home). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
+We are a dynamic research group, at the [Department of Computer Science of Hong Kong Baptist University (HKBU)](https://www.comp.hkbu.edu.hk/v1/?page=home). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)).  
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
