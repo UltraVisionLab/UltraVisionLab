@@ -65,8 +65,9 @@ permalink: /publications/
 
 {% for publi in site.data.publist2024 %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ forloop.index }}. {{ publi.title }} <br />
+  {{ publi.authors }} <br />
+  {{ publi.display }}
 
 {% endfor %}
 
@@ -74,8 +75,9 @@ permalink: /publications/
 
 {% for publi in site.data.publist2023 %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ forloop.index }}. {{ publi.title }} <br />
+  {{ publi.authors }} <br />
+  {{ publi.display }}
 
 {% endfor %}
 
@@ -83,8 +85,9 @@ permalink: /publications/
 
 {% for publi in site.data.publist2022 %}
 
-  <a href="{{ publi.link.titleurl }}">{{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ forloop.index }}. {{ publi.title }} <br />
+  {{ publi.authors }} <br />
+  {{ publi.display }}
 
 {% endfor %}
 
@@ -92,8 +95,9 @@ permalink: /publications/
 
 {% for publi in site.data.publist2021 %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ forloop.index }}. {{ publi.title }} <br />
+  {{ publi.authors }} <br />
+  {{ publi.display }}
 
 {% endfor %}
 
@@ -101,7 +105,7 @@ permalink: /publications/
 
 {% for publi in site.data.publist2020 %}
 
-  {{ publi.title }} <br />
+  {{ forloop.index }}. {{ publi.title }} <br />
   {{ publi.authors }} <br />
   {{ publi.display }}
 
