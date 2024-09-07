@@ -57,8 +57,8 @@ We are a dynamic research group, at the [Department of Computer Science of Hong 
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/icon_UltraVision.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_ES.svg" style="width: 300px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/icon_UltraVision.png" style="width: 160px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_hkbu_cs.svg" style="width: 400px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_hkbu.svg" style="width: 430px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_hkbu_cs.svg" style="width: 430px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_ES.svg" style="width: 300px">
 </figure>
