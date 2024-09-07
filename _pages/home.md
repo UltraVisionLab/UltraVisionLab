@@ -54,13 +54,13 @@ Welcome to **UltraVision+ Lab** at the Department of Computer Science of Hong Ko
 
 **Research Area**
 
-* Data-centric AI to handle imperfect data problems in real-word deployment.
+* Multimodal learning including video, image, audio, text, etc.
 
 * Human-machine interaction or collaboration to simplify sonography.
 
-* Multimodal learning including video, image, audio, text, etc.
-
 * 2D, video and 3D ultrasound data understanding.
+
+* Data-centric AI to handle imperfect data problems in real-word deployment.
 
 **We are looking for passionate PhD, RA, and Intern students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
