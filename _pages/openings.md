@@ -8,7 +8,7 @@ permalink: /vacancies
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/WhyHKBU_banner.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WhyHKBU_banner.jpg" width="95%">
 </figure>
 
 
