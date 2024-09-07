@@ -52,7 +52,17 @@ permalink: /
 
 Welcome to **UltraVision+ Lab** at the Department of Computer Science of Hong Kong Baptist University (HKBU). We are a dynamic research group dedicated to advancing medical imaging through the integration of ultrasound with a broad range of modal data, including video, image, audio, text reports, probe motion, eye gaze, and other inputs. The name "UltraVision+" signifies our commitment to not only enhancing visual ultrasound imaging with advanced computer vision but also leveraging additional data streams to provide a comprehensive and enriched diagnostic experience. Our goal is to develop cutting-edge tools and algorithms that improve diagnostic accuracy, streamline procedures, and guide sonographers with real-time insights from diverse data sources. At UltraVision+, we are at the forefront of innovation, driving the future of medical imaging by integrating and interpreting multiple modalities to enhance both the precision and accessibility of ultrasound technology (see [Research](research)).  
 
- **We are looking for passionate PhD, RA, and Intern students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**Research Area**
+
+* Data-centric AI to handle imperfect data problems in real-word deployment.
+
+* Human-machine interaction or collaboration to simplify sonography.
+
+* Multimodal learning including video, image, audio, text, etc.
+
+* 2D, video and 3D ultrasound data understanding.
+
+**We are looking for passionate PhD, RA, and Intern students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 <figure class="fourth">
