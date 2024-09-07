@@ -15,7 +15,7 @@ Jump to [PI](#principal-investigator (PI)), [students](#phd-students), [alumni](
 
 ## Principal Investigator
 {% assign number_printed = 0 %}
-{% for member in site.data.team_staffs %}
+{% for member in site.data.team_PI %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
