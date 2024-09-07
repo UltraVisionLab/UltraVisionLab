@@ -101,8 +101,8 @@ permalink: /publications/
 
 {% for publi in site.data.publist2020 %}
 
-  <a href="{{ publi.link.titleurl }}" target="_blank">{{ publi.title }} <br />
+  {{ publi.title }} <br />
   {{ publi.authors }} <br />
-  {{ publi.link.display }}
+  {{ publi.display }}
 
 {% endfor %}
