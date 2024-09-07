@@ -50,10 +50,9 @@ permalink: /
   </a>
 </div>
 
+Welcome to UltraVision+ Lab at the Department of Computer Science of Hong Kong Baptist University (HKBU). We are a dynamic research group dedicated to advancing medical imaging through the integration of ultrasound with a broad range of modal data, including video, image, audio, text reports, probe motion, eye gaze, and other inputs. The name "UltraVision+" signifies our commitment to not only enhancing visual ultrasound imaging with advanced computer vision but also leveraging additional data streams to provide a comprehensive and enriched diagnostic experience. Our goal is to develop cutting-edge tools and algorithms that improve diagnostic accuracy, streamline procedures, and guide sonographers with real-time insights from diverse data sources. At UltraVision+, we are at the forefront of innovation, driving the future of medical imaging by integrating and interpreting multiple modalities to enhance both the precision and accessibility of ultrasound technology (see [Research](research)).  
 
-We are a dynamic research group, at the [Department of Computer Science of Hong Kong Baptist University (HKBU)](https://www.comp.hkbu.edu.hk/v1/?page=home). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)).  
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are looking for passionate new PhD, RA, and Intern students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 <figure class="fourth">
