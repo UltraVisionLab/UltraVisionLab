@@ -10,7 +10,7 @@ permalink: /team/
 
  <!-- **We are  looking for new PhD students, research assistants, and visitors to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
 
-Jump to [Principal Investigator (PI)](#principal-investigator), [students](#phd-students), [alumni](#alumni).
+Jump to [Principal Investigator (PI)](#principal-investigator), [students](#phd-students). <!-- , [alumni](#alumni). -->
 
 ## Principal Investigator
 {% assign number_printed = 0 %}
@@ -125,15 +125,15 @@ Jump to [Principal Investigator (PI)](#principal-investigator), [students](#phd-
 {% endif %}
 
 
-## Alumni
+<!-- ## Alumni
 <div class="row">
 
-<!-- <div class="col-sm-4 clearfix">
+<div class="col-sm-4 clearfix">
 <h4>Staff</h4>
 {% for member in site.data.alumni_staff %}
 {{ member.name }}
 {% endfor %}
-</div> -->
+</div>
 
 <div class="col-sm-4 clearfix">
 <h4>Students</h4>
@@ -149,7 +149,8 @@ Jump to [Principal Investigator (PI)](#principal-investigator), [students](#phd-
 {% endfor %}
 </div>
 
-</div>
+</div> -->
+
 
 <!-- 
 ## Administrative Support
