@@ -20,7 +20,7 @@ The UltraVision+ Lab in the Department of Computer Science, Hong Kong Baptist Un
 
 We are looking for new group members with passion, talent, and grit!
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+<!-- You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries. -->
 
 ### Applications for PhD and Postdoc positions
 We look for highly motivated students to join us. After rigorous research training, we will support students and researchers for academic exchanges with collaborating labs in Top universities around the world. Preferred academic backgrounds including but not limited to Computer Engineering, Electronic Engineering, Biomedical Engineering, Information Engineering, Control and Automation, and related areas. If you have an interest in joining our lab, please do not hesitate to contact me at xiaoqing dot guo at eng dot ox dot ac dot uk with your CV and a short self-introduction to facilitate our communication.
